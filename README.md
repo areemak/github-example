@@ -7,3 +7,4 @@
 - pull request 날리기
 - test test 
 - 테스트당
+- 이거는? 
