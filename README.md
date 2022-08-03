@@ -6,3 +6,4 @@
 - 이슈에 바로 hashtag 걸기
 - pull request 날리기
 - test test 
+- 테스트당
